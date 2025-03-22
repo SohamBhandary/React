@@ -1,0 +1,9 @@
+state ek data hota hai,react is data ka khaayal rakta hai,jabi bhi ye data change hota hai tab react page ko update kar deta hai
+
+
+state koi bhi data ho sakta hai jaise ki score=0( by defualt 0)
+
+useState(0)
+
+
+maan lete hai aapke ke game mein scroe by deafult 0 se suru hota hai or woh scroe 10 points bare ga aur page pe show karna hai, to iss case me scrore ko ak variable mein rakn jaruri ha kyuki react sirf use change karta hai jo state mein hota hai
